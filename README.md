@@ -1,4 +1,4 @@
-<h1>Building a Penguin</h1>
+<h1>FREECODECAMP - Building a Penguin</h1>
 
 <h3>https://venuprakash.github.io/penguin/</h3>
 
